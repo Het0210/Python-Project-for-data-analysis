@@ -1,4 +1,4 @@
-# Movie Portfolio Project (see all the codes used with result by clicking on the pynb. file)
+# Movie Portfolio Project (see all the codes used with result by clicking on the .ipynb file)
 
 ## Overview
 
