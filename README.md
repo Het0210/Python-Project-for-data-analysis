@@ -1,4 +1,4 @@
-# Movie Portfolio Project
+# Movie Portfolio Project (see all the codes used with result by clicking on the pynb. file)
 
 ## Overview
 
@@ -131,7 +131,7 @@ This project provides a detailed analysis of the factors that contribute to a mo
 1. Clone the repository to your local machine.
 2. Open the Jupyter Notebook `Movie Portfolio Project.ipynb` to view the analysis.
 3. Run the cells in the notebook to reproduce the results or modify the code for further analysis.
-
+4. see all the codes used with result by clicking on the pynb. file
 ## Dependencies
 
 - Python 3.x
